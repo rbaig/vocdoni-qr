@@ -7,7 +7,7 @@ Command line:
 /QRstamp.sh background-cat.pdf $(find ./svg -name "0x0438*" | sort -k2 -n -t_)
 ```
 
-* It takes ~10 min to process 1000
+* It takes ~10 min to process 1000 (standard 2020 laptop)
 
 # Dependencies
 Command line:
